@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ErikPDev/PM3AdvanceDeaths
+build-by-default: true
+branches:
+- main
+projects:
+  PM3AdvanceDeaths:
+    path: ""
+...
